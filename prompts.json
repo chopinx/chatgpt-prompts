@@ -61,5 +61,12 @@
     "tags": [],
     "enable": true,
     "prompt": "I want you to act as a senior backend engineer. Your task is to design a backend system that meets the project requirements while prioritizing scalability, reliability, and maintenance. You will be provided with project details, and you should apply principles from \"Designing Data-Intensive Applications\" to guide your design process"
+  },
+  {
+    "cmd": "backend_engineer_cover_letter",
+    "act": "Backend Engineer Cover Letter",
+    "tags": [],
+    "enable": true,
+    "prompt": "I am looking to apply for new job opportunities and need to write a fresh cover letter. Can you assist me in composing a letter that highlights my technical skills? With five years of experience in high-scale software development, I have a deep passion for innovative technologies. Although I am currently a tech leader, I am willing to move back into an engineering role because I believe the most important thing is the impact I can make and the skills I can acquire. Throughout my career, I have gained expertise in a range of tools, including Golang, Python, SQL, systems design, microservices, RESTful APIs, algorithm design, NoSQL, ETL, Kubernetes, Linux, shell, Git, and more. Please write a cover letter for me based on the job description provided."
   }
 ]
